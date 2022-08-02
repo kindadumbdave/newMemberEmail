@@ -1,7 +1,7 @@
 ## Project: EmailApp
 
 -*Description*
-	this is some basic java code to create a new email address and password for a new user. A typical user case would be: new staff memeber enters organization. IT Helpdesk is tasked with setting up the new users email address and temp password for system login. The details are read by the program and organization email and temporary password is generated for the user.
+This is some basic java code to create a new email address and password for a new user. A typical user case would be: new staff memeber enters organization. IT Helpdesk is tasked with setting up the new users email address and temp password for system login. The details are read by the program and organization email and temporary password is generated for the user.
 
 -*Features*
 	1. log of staff
