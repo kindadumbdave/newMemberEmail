@@ -1,0 +1,3 @@
+- link local wsl2 env, local git, to github account.
+- this is some basic java code to create a new email address and password for new company employees.
+- the user case: new staff memeber enters organization. it helpdesk is tasked with setting up the new users email address and temp password for system login. 
